@@ -3,7 +3,8 @@
 Program.cs
 Study.csproj
 Study.sln
-/obj
-/bin
-/CsharpTest
-
+/.vscode
+/Practice/obj
+/Practice/bin
+/Practice/CsharpTest
+/Practice.vscode

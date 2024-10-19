@@ -22,5 +22,5 @@
 ```bash
 Year-Month-Day [Category] Add/Fix/Update/Move > Info
 
-ex) 2024-04-26 [README.md] Add > README.md Files
+ex) 2024-04-26 [README.md] Add > README.md File
 ```

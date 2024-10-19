@@ -1,10 +1,25 @@
 # 생성자
 
-생성자란?
+
+## 목차
+* [생성자란?](#생성자-란)
+* [Case 1. 생성자가 없는 경우](#case-1-생성자가-없는-경우)
+* [Case 2. 생성자 선언](#case-2-생성자-선언)
+* [Case 3. Member Initializer List](#case-3-member-initializer-list)
+* [Case 4. 매개변수를 받는 생성자](#case-4-매개변수를-받는-생성자)
+* [Case 5. Delegating Constructor](#case-5-delegating-constructor)
+
+
+</br>
+</br>
+
+## 생성자 란?
 
 클래스의 객체가 생성될 때 자동으로 호출되는 함수.
 
 객체의 멤버 변수를 초기화 하는데 사용한다.
+
+</br>
 
 ## Case 1. 생성자가 없는 경우
 ```cpp
@@ -54,7 +69,7 @@ public:
 }
 ```
 
-## Case 4
+## Case 4. 매개변수를 받는 생성자
 ```cpp
 class Student
 {
@@ -80,7 +95,7 @@ public:
 
 ```
 
-## Case 5
+## Case 5. Delegating Constructor
 ```cpp
 class Student
 {

@@ -25,7 +25,7 @@ int main()
 
     // int my_array[5] = {1, 2, 3, 4, 5}; // 인자를 다 안채워넣으면 알아서 0으로 초기화 됨.
 
-    int student_socresss[NUM_STUDENTS]; // 이거 진짜 신세계다
+    int student_socresss[NUM_STUDENTS];
 
     cout << "enum's size is " << sizeof(StudentName) << endl; // 4 bytes
     cout << sizeof(Apple) << endl;                            // 4 bytes
